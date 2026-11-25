@@ -4,13 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "agentwall"
-version = "1.0.0"
+version = "1.1.0"
 description = "Zero-Config Security Firewall & Blast-Radius Shield for AI Coding Agents."
 readme = "README.md"
 requires-python = ">=3.10"
 license = "MIT"
 authors = [
-    { name = "BNTiyan", email = "NBR5MTR29@users.noreply.github.com" }
+    { name = "BNTiyan", email = "34437924+BNTiyan@users.noreply.github.com" }
 ]
 keywords = [
     "ai-agent-security",
